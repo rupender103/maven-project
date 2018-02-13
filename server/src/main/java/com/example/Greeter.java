@@ -12,7 +12,7 @@ public class Greeter {
 
   }
 
-/** @raj thias is ok
+/** @param tag forraj thias is ok
  * @return kff
  */
   public final String greet(final String someone) {
